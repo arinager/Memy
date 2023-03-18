@@ -1,0 +1,139 @@
+
+.form {
+
+    background-color: #fff197;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  
+  }
+  
+   
+  
+  .form h2 {
+  
+    color: #ffcc00;
+  
+  }
+
+  button {
+    padding: 1em;
+    margin: 1.5em;
+    color: #e5b845;
+    background: white;
+    border-color: #e58845;
+  }
+
+  input {
+    margin: 1.5em;
+    padding: 1em;
+    border-color: #e5b845;
+    color: #e58845;
+  }
+
+
+
+  .move {
+    width: 100 wv;
+    height: 70vh;
+    background-color: rgb(255, 222, 104);
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.movie {
+    width: 100%;
+    height: 100vh;
+    background: url(images/BG2.jpeg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*  подвал  */
+footer {
+    background-color: #ffd500;
+    font-family: 'Russo One', sans-serif;
+}
+
+.footerInner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #fff
+}
+
+
+.banner {
+  width: 100%;
+  background: url(images/BG1.jpg);
+  background-size: cover;
+  padding-top: 40vh;
+  padding-left: 30px;
+  padding-bottom: 10vh;
+  color: #404E36;
+}
+
+h1 {
+font-size: 36px;
+margin: 0;
+}
+
+.pBanner {
+margin-top: 10px;
+margin-bottom: 60px;
+font-family: 'Lobster', cursive;
+}
+
+.link {
+display: inline-block;
+background-color: #4E7338;
+padding: 20px 40px;
+color: #0D2434;
+font-size: 18px;
+font-weight: 700;
+}
+
+
+header {
+  background-color: #f8ef8e;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.headerInner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.header h1 {
+  font-size: 3em;
+}
+
+body {
+  margin: 0;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 14px;
+  font-weight: 400;
+  background-color: #eeff00;
+  color: #000;
+}
+
